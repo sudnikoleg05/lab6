@@ -1,0 +1,83 @@
+/* Заголовок h1 */
+.main-title {
+  color: red;
+}
+
+/* Ссылки в навигации */
+.nav-list .link {
+  color: green;
+}
+
+/* Специальная ссылка */
+.nav-list .special-link {
+  color: blue;
+}
+.nav-list .link.yellow-item {
+  color: yellow; /* Желтый */
+}
+
+/* Заголовок h2 первого поста */
+#first-post h2 {
+  color: orange;
+}
+
+/* Текст первого поста */
+#first-post p {
+  color: orange;
+}
+
+/* Заголовок h2 второго поста */
+.post:nth-child(2) h2 {
+  color: purple;
+}
+
+/* Текст второго поста */
+.post:nth-child(2) p {
+  color: purple;
+}
+
+/* Заголовок h3 виджета */
+.widget h3 {
+  color: pink;
+}
+
+/* Элементы списка */
+.color-list li {
+  color: gray;
+}
+
+/* Выделенный элемент списка */
+.color-list .highlighted {
+  color: black;
+}
+
+/* Заголовок h3 важного виджета */
+.important-widget h3 {
+  color: maroon;
+}
+
+/* Текст заметки */
+.note {
+  color: maroon;
+}
+
+/* Лейбл формы */
+.form label {
+  color: white;
+}
+
+/* Поле ввода */
+.form input {
+  color: white;
+}
+
+/* Кнопка формы */
+.form .submit-btn {
+  color: black;
+}
+
+/* Стили для коричневого цвета */
+.color-list li:nth-child(2) {
+  color: brown; /* Коричневый */
+}
+
